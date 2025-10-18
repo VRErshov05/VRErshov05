@@ -57,10 +57,9 @@ I enjoy understanding how **data systems work under the hood**, building reprodu
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="mailto:vrershov@mail.ru"><img src="https://img.shields.io/badge/Email-vrershov@mail.ru-blue?style=flat-square&logo=gmail"/></a>
+  <a href="mailto:vrershov05@gmail.com"><img src="https://img.shields.io/badge/Email-vrershov05@gmail.com-blue?style=flat-square&logo=gmail"/></a>
   <a href="https://t.me/DissLave86"><img src="https://img.shields.io/badge/Telegram-@DissLave86-blue?style=flat-square&logo=telegram"/></a>
   <a href="https://leetcode.com/VRErshov05/"><img src="https://img.shields.io/badge/LeetCode-VRErshov05-orange?style=flat-square&logo=leetcode"/></a>
-  <a href="https://github.com/VRErshov05"><img src="https://img.shields.io/badge/GitHub-VRErshov05-black?style=flat-square&logo=github"/></a>
 </p>
 
 ---
